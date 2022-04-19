@@ -6,6 +6,9 @@
 🌱 Learning:
 - I’m currently learning HTML, CSS, and Javascript plus webdev libraries and apis
 
+📚 Leetcode Streak:
+- 2 Days (Started 4/17/2022)
+
 💬 Reach me by email! zackhhi@gmail.com
 
 📫 Visit my Portfolio: [WIP]
