@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 🔭 Current Project:
-- I’m currently working on a manga reading app for IOS and Android using Flutter and Dart
+- Web Developing multiple projects taking professional steps and learning
 
 🌱 Learning:
-- I’m currently learning HTML, CSS, and Javascript plus webdev libraries and apis
+- Typescript & Structuring
 
 💬 Reach me by email! zackhhi@gmail.com
 
