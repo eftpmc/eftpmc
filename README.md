@@ -4,7 +4,7 @@
 - Developing multiple projects taking professional steps and learning
 
 🌱 Learning:
-- Typescript & Structuring
+- Advanced Web and Mobile Apps
 
 💬 Reach me by email! zackhhi@gmail.com
 
