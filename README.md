@@ -8,4 +8,4 @@
 
 💬 Reach me by email! zackhhi@gmail.com
 
-📫 Visit my Portfolio: [ari](https://portfolio-eftpmc.vercel.app/)
+📫 Visit my Portfolio: [zack/ari](https://zack-ari.vercel.app)
