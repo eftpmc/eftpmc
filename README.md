@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-🔭 Current Project:
-- Developing multiple projects taking professional steps and learning
+🔭 What I'm up to:
+- Attending Clemson majoring in Computer Science
+- Designing apps with Expo
+- Exploring Next.js's capabilites
 
 🌱 Learning:
 - Advanced Web and Mobile Apps
