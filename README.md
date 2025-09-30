@@ -2,12 +2,11 @@
 
 🔭 What I'm up to:
 - Attending Clemson majoring in Computer Science
-- Designing apps with Expo
-- Exploring Next.js's capabilites
+- Self-hostinggg
 
 🌱 Learning:
-- Advanced Web and Mobile Apps
+- Docker and homelabbing
 
 💬 Reach me by email! zackhhi@gmail.com
 
-📫 Visit my Portfolio: [zack/ari](https://zack-ari.vercel.app)
+📫 Visit my Portfolio: [zack/ari](https://www.aritools.xyz/)
